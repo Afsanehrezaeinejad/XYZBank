@@ -1,0 +1,31 @@
+[
+    {
+        "transactionType" : "Credit",
+        "amount" : "50000"
+    },
+    {
+        "transactionType" : "Debit",
+        "amount" : "3000"
+    },
+    {
+        "transactionType" : "Debit",
+        "amount" : "20000"
+    },
+    {
+        "transactionType" : "Credit",
+        "amount" : "5000"
+    },
+    {
+        "transactionType" : "Debit",
+        "amount" : "10000"
+    },
+    {
+        "transactionType" : "Debit",
+        "amount" : "15000"
+    },
+    {
+        "transactionType" : "Credit",
+        "amount" : "1500"
+    }
+
+]
