@@ -1,0 +1,12 @@
+{
+    "name": "xyzbank",
+    "version": "1.0.0",
+    "scripts": {
+      "cypress:open": "cypress open",
+      "cypress:run": "cypress run"
+    },
+    "devDependencies": {
+      "cypress": "^14.4.0"
+    }
+  }
+  
